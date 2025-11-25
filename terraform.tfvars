@@ -1,0 +1,6 @@
+region                 = "eu-west-1"
+my_ip                  = "154.160.1.40/32"
+key_pair_name          = "techcorp-key"
+bastion_instance_type  = "t3.micro"
+web_instance_type      = "t3.micro"
+db_instance_type       = "t3.micro"
